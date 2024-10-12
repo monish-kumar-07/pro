@@ -1,0 +1,28 @@
+/* styles.css or a relevant CSS module */
+
+@keyframes partyPop {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    50% {
+      transform: scale(1.2);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(0);
+      opacity: 0;
+    }
+  }
+  
+  .party-pop {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: partyPop 1s ease forwards;
+    z-index: 1000; /* Adjust as necessary */
+  }
+  
+  /* Additional styles for the animation elements, if needed */
+  
