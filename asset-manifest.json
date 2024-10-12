@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monish-kumar-07/pro.git/static/css/main.5a8a3e3d.css",
+    "main.js": "/monish-kumar-07/pro.git/static/js/main.48615d2a.js",
+    "static/js/453.f0e33eac.chunk.js": "/monish-kumar-07/pro.git/static/js/453.f0e33eac.chunk.js",
+    "index.html": "/monish-kumar-07/pro.git/index.html",
+    "main.5a8a3e3d.css.map": "/monish-kumar-07/pro.git/static/css/main.5a8a3e3d.css.map",
+    "main.48615d2a.js.map": "/monish-kumar-07/pro.git/static/js/main.48615d2a.js.map",
+    "453.f0e33eac.chunk.js.map": "/monish-kumar-07/pro.git/static/js/453.f0e33eac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a8a3e3d.css",
+    "static/js/main.48615d2a.js"
+  ]
+}
